@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cutool.online
+
+# Sitemaps
+Sitemap: https://cutool.online/sitemap.xml

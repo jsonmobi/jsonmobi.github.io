@@ -1,0 +1,4 @@
+.editor-container > .CodeMirror{
+    height: 900px;
+    font-size: 16px;
+}
